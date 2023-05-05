@@ -10,9 +10,11 @@ Para fazer o login integramos com o google (gmail), onde é criado uma conta no 
 
 Também há a opção para deslogar, sendo que para acessar a página das tarefas é necessário estar logado, porem se a tarefa for pública qualquer um pode acessar, mas para comentar é necessário estar logado.
 
+Para deixar como pública ou não é só ativar a opção de pública ao criar uma tarefa.
+
 Esse projeto foi criado seguindo o curso de NextJS do Sujeito Programador.
 
 ### `Projeto Online`
 
-Para ver o projeto online é só clicar [aqui](https://board-app.vercel.app/) ou acessar pelo link [https://board-app.vercel.app/](https://board-app.vercel.app/).
+Para ver o projeto online é só clicar [aqui](https://project-board2023.vercel.app/) ou acessar pelo link [https://project-board2023.vercel.app/](https://project-board2023.vercel.app/).
 
